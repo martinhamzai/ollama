@@ -1,4 +1,7 @@
 chromadb
 langchain
 langchain-core
+langchain-community
 langchain-ollama
+pandas
+streamlit
